@@ -1,0 +1,28 @@
+{
+  "name": "label-test",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/azu/label-test",
+  "bugs": {
+    "url": "https://github.com/azu/label-test/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/label-test.git"
+  },
+  "license": "MIT",
+  "author": "azu",
+  "main": "lib/label-test.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "files": [
+    "bin/",
+    "lib/",
+    "src/"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
